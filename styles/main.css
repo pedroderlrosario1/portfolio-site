@@ -21,7 +21,7 @@ header {
 }
 
 .name {
-  font-size: 28px;
+  font-size: 40px;
   font-weight: 600;
 }
 
@@ -54,10 +54,10 @@ header {
 }
 
 .photo {
-  background: url('../images/jaws.jpg') center 50%;
+  background: url('../images/MewiththeCatch.jpg') center 5%;
   background-size: cover;
-  min-height: 300px;
-  width: 50%;
+  min-height: 900px;
+  width: 70%;
 }
 
 .description {
